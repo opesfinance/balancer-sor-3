@@ -1,5 +1,5 @@
 {
-    "name": "@balancer-labs/sor",
+    "name": "balancer-sor-3",
     "version": "3.0.0-beta.0",
     "license": "GPL-3.0-only",
     "main": "dist/index.js",
