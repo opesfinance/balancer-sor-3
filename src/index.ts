@@ -8,3 +8,4 @@ export {
 } from './frontendHelpers/queryBatchSwapHelpers';
 export * from './types';
 export { parseToPoolsDict } from './routeProposal/filtering';
+export * from './lib/index';
